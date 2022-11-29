@@ -1,3 +1,4 @@
+theme: minima
 # Hello my love :*
 
 what else. 
