@@ -18,9 +18,9 @@ function imageMode(color) {
 
 function toggleDarkLightMode(mode) {
   nav.style.backgroundColor =
-    mode === DARK_THEME ? 'rgb(0 0 0 / 50%)' : 'rgb(255 255 255 / 50%)';
+    mode === DARK_THEME ? 'rgb(50 50 50 / 50%)' : 'rgb(200 200 200 / 50%)';
   textBox.style.backgroundColor =
-    mode === DARK_THEME ? 'rgb(255 255 255 / 50%)' : 'rgb(0 0 0 / 50%)';
+    mode === DARK_THEME ? 'rgb(200 200 200 / 50%)' : 'rgb(50 50 50 / 50%)';
   // Icon text
   toggleIcon.children[0].textContent =
     mode === DARK_THEME ? 'Dark Mode' : 'Light Mode';
