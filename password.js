@@ -24,7 +24,7 @@
     <p style="font-size: 30pt;"> TESTING THE PASSWORD</p>
     <p>Enter the password to view .</p>
     <p>Password:<input id="passwordBox" type="password"/></p>
-    <a href="monkdiamonddiscovery.html" onclick="return"
+    <a href="https://whatdoesthatmean.github.io/" onclick="return"
     CheckPassword();">
     click here to submit a pasword and view website
     </a>
